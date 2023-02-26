@@ -86,7 +86,6 @@ header {
 .logo {
   cursor: pointer;
   text-align: center;
-
 }
 
 .header-content {
@@ -237,7 +236,7 @@ footer {
     width: 100%;
     padding: 100px 0;
   }
-  
+
   .event-proyect {
     width: 100%;
     padding: 100px 0;
